@@ -1,0 +1,33 @@
+name: core
+description: A core package in application.
+version: 0.0.1
+
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  #Intl for localizations
+  intl: ^0.18.0
+
+  dependency_manager:
+    path: ./packages/dependency_manager
+  gits_library:
+    path: ./packages/gits_library
+  assets:
+    path: ../assets
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652172844593",
+    "project_id": "gits-flutter-starter-kit-stag",
+    "storage_bucket": "gits-flutter-starter-kit-stag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652172844593:android:4f58f250970cd5c305bf10",
+        "android_client_info": {
+          "package_name": "id.gits.flutter_starter_kit.stag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652172844593-tn4fb3aa1kgqa6m9ojqqeimi3icjbv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsv5yie65i3M8lTgflMmAdEJpv4gt3T2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652172844593-tn4fb3aa1kgqa6m9ojqqeimi3icjbv3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

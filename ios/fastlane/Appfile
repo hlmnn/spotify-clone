@@ -1,0 +1,8 @@
+app_identifier("id.gits.flutterStarterKit") # The bundle identifier of your app
+apple_id("ios@gits.id") # Your Apple email address
+
+itc_team_id("96184904") # App Store Connect Team ID
+team_id("P53KJ6MXZH") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

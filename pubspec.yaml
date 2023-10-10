@@ -1,0 +1,48 @@
+name: gits_flutter_starter_kit
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 2.5.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  core:
+    path: ./core
+  splash:
+    path: ./features/splash
+  auth:
+    path: ./features/auth
+  home:
+    path: ./features/home
+  search:
+    path: ./features/search
+  your_library:
+    path: ./features/your_library
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  gits_cucumber: ^2.0.0
+
+dependency_overrides:
+  http: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - integration_test/ndjson/
+
+
+
+
+
+

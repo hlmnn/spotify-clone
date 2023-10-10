@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "814265804013",
+    "project_id": "gits-flutter-starter-kit-dev",
+    "storage_bucket": "gits-flutter-starter-kit-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814265804013:android:73de4c8c8df0134f8bd8e4",
+        "android_client_info": {
+          "package_name": "id.gits.flutter_starter_kit.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814265804013-71sdhuhs5hoqfk8kvp5hr8fsmtof60s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCj53Gnfrq2xjqFQt1pjA9NQAfcXAI8Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814265804013-71sdhuhs5hoqfk8kvp5hr8fsmtof60s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "814265804013-7n47g4qgun67lks2ahn3c16ep48bs87v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.gits.flutterStarterKit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
